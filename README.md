@@ -18,34 +18,50 @@ This tutorial outlines the post-installation configuration of the osTicketing.<b
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Conifgure Roles
+- Configure Departments
+- Configure teams
+- Configure Customers
+- Configure SLAs
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WftqLpw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Set myself up as an "Awesome Admin" just to make things a little fun before beginning to create tickets for agents. Added roles and allowed all permissions for the Awesome Admin.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zbf6BJs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a Level II support department as an admin user. Pretty easy to navigate and create in osTicket. Next I will configure some teams.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/q0iaaUO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I created a team of 3 agents including myself. Made up some cool agents to work some tickets. Set permissions for "Black Adam" as a Sys Admin and John Wick as a support agent.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/boG3FJ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created some famous customers to resolve issues. Pretty cool.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uh1hYwL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+These are SLAs. It is a time limit for hours and days an agent has to resolve tickets for customers. SEV-A has 1 hour, 24/7. SEV-B has 4 hours, 24/7. SEV-C has 8 hours, business hours. Real life SLAs with a couple of unfortunate days and hours to fix them. 
 </p>
 <br />
